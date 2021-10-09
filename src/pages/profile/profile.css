@@ -1,0 +1,21 @@
+.profilePage{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.imgSection{
+    width: 25vw;
+    height: 10vh;
+    border-radius: 50%;
+    
+}
+
+.imgSection img{
+    width: 100%;
+   
+}
+
+.infoSection{
+    width: 40v;
+    text-align: start;
+}
